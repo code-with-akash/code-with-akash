@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Akash Verma!
-- 💻 Frontend Developer | MERN Stack Learner
+- 💻 Frontend Developer | MERN Stack Developer
 - 🌱 Currently exploring React.js and Node.js
 - 🚀 Passionate about building responsive web applications
 - 📫 Let's connect: [akashverma2001.sre@gmail.com]
